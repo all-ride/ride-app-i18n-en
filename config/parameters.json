@@ -2,6 +2,7 @@
     "i18n.locale": {
         "en": {
             "name": "English",
+            "full": "en_US.utf8",
             "translator.script.plural": "$n != 1"
         }
     }
