@@ -1,3 +1,3 @@
-# Pallo: I18n (en)
+# Ride: I18n (en)
 
-English locale for a Pallo application.
+English locale for a Ride application.
